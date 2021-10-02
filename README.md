@@ -1,6 +1,6 @@
 # Dummy app
 
-## Running locally
+## Running only dummy app locally
 
 Using [Poetry](https://python-poetry.org) and [pyenv](https://github.com/pyenv/pyenv) to manage virtual envs and dependencies.
 
